@@ -6,6 +6,8 @@
 
 **LogosKG** is a model-agnostic and highly optimized engine for large-scale multi-hop knowledge graph (KG) retrieval. Designed to mitigate the memory bottlenecks and pointer-chasing latency typical of traditional graph libraries, LogosKG provides efficient, hardware-accelerated traversal tailored for **LLM-KG applications** and complex reasoning systems.
 
+**🌐 Website / Demo:** [https://lark-nlp-lab-logoskg.hf.space/](https://lark-nlp-lab-logoskg.hf.space/)
+
 ### Authors & Affiliations
 
 1. **He Cheng**, University of Colorado Anschutz Medical Campus, Aurora, CO, USA
