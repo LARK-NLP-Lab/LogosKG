@@ -149,7 +149,10 @@ If you find LogosKG useful in your research, please cite our paper:
 
 ## 📄 License
 
+LogosKG™ is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is released for academic and non-commercial use only. Commercial use is not permitted without prior written permission.
+
+See the [LICENSE](LICENSE) file for details.
 
 
