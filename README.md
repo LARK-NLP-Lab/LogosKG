@@ -135,15 +135,12 @@ results = kg_large.retrieve_within_k_hop(entity_ids=["C1234567"], hops=3)
 If you find LogosKG useful in your research, please cite our paper:
 
 ```bibtex
-@article{cheng2026scaling,
-  title={Scaling Biomedical Knowledge Graph Retrieval for Interpretable Reasoning: Applications to Clinical Diagnosis Prediction},
-  author={Cheng, He and Wu, Yifu and Khatwani, Saksham and Kruse, Maya and Dligach, Dmitriy and Miller, Timothy A. and Afshar, Majid and Gao, Yanjun},
-  journal={medRxiv},
-  pages={2026--01},
-  year={2026},
-  publisher={Cold Spring Harbor Laboratory Press},
-  doi={10.64898/2026.01.12.26343957},
-  url={[https://www.medrxiv.org/content/10.64898/2026.01.12.26343957v1](https://www.medrxiv.org/content/10.64898/2026.01.12.26343957v1)}
+@inproceedings{cheng2026logoskg,
+  title={LogosKG: Hardware-Optimized Scalable and Interpretable Knowledge Graph Retrieval},
+  author={Cheng, He and Wu, Yifu and Khatwani, Saksham and Kruse, Maya and Dligach, Dmitriy and Miller, Timothy A and Afshar, Majid and Gao, Yanjun},
+  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={42478--42493},
+  year={2026}
 }
 ```
 
